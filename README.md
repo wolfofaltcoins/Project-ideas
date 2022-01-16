@@ -5,3 +5,5 @@
 2. Make a wrapper around metamask that allows me to store all the token addresses, allows me to search for token addresses. Allows me to search for abi, allows me to set a max gas price.
 
 3. Make a token extension that allows me to serach rpcs, token addresses etc without going to a website.
+
+4. Make a frontend that allows people to auto harvest, dump or compound from any farm.
